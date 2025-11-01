@@ -1,4 +1,7 @@
 first commit
 second
 third
+issue resolved
+new feature
 hotfix my solution
+hotfix team's solution
