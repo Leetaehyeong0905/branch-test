@@ -4,4 +4,4 @@ third
 issue resolved
 new feature
 hotfix my solution
-hotfix team's solution
+hotfix team's solutionnew function added
